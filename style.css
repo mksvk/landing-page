@@ -1,0 +1,59 @@
+body{
+    background-color: #406882;
+    margin: 0%;
+}
+.container{
+    background-color: whitesmoke;
+    
+    width: 50%;
+    position: relative;
+    left: 10%;
+    top:10%;
+    border-radius: 10px;
+    box-shadow: 60px -16px #6998AB;
+    text-align: left;
+
+
+}
+.pic{
+    text-align: center;
+}
+h1{
+    color: #1A374D;
+    font-style: italic;
+    position: relative;
+    left: 20%;
+    font-size: 5vh;
+    width: auto;
+}
+.par{
+    color: #1A374D;
+    font-style: italic;
+    
+    font-size: 4vh;
+    
+    position: relative;
+    left: 20%;
+}  
+    
+.pa{
+    
+    color: #1A374D;
+    display: inline-block;
+    width: 50%;
+    position: relative;
+    left: 20%;
+    
+    font-size: 3vh;
+    
+
+    font-style: italic;
+}
+
+img{
+    border-radius: 50%;
+    height: auto;
+    width:35%;
+    margin-top: 10px;
+     
+}
